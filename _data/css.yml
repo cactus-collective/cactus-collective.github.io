@@ -1,0 +1,16 @@
+# Set site css defaults
+# Note: that you can't use the hex_to_rgb converter on digits, remember to quote them
+color:
+  primary: fd6a44
+  secondary: 1ebe94
+  tertiary: 388ed1
+  text: '333'
+  dark: 080b13
+  darkest: '040404'
+  muted: '777'
+  bg-primary: fd6a44
+  bg-secondary: fed136
+
+font:
+  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'

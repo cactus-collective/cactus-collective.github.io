@@ -1,0 +1,18 @@
+# Settings
+markdown: kramdown
+permalink: pretty
+url: https://cactuscollective.tech
+baseurl:
+
+# Site
+title: The Cactus Collective
+description: "Opposing gender discrimination, oppression, and retaliation in tech."
+
+# Social
+social:
+  - title: twitter
+    url: http://twitter.com/cactuscollectv
+  - title: github
+    url: http://github.com/cactus-collective
+
+
