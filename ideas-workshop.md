@@ -4,11 +4,13 @@ layout: default
 
 # Ideas Workshop: Promoting yourself through blog posts and tech talks
 
-<div class="deets">
-**Location**: Your computer, like everything right now<br>
-**When**: Sunday March 28, 2021, 2PM to 4:30PM GMT<br>
+***
+**Location**: Your computer, like everything right now
+
+**When**: Sunday March 28, 2021, 2PM to 4:30PM GMT
+
 **Who**: All women and non-binary people who are residents or citizens of the UK
-</div>
+***
 
 We encourage you to attend this **Ideas Workshop** if you are hesitant to write a blog post, do a demo at work, or present a tech talk at a meet-up or conference, or if you know you want to do these things, but don’t know what to write or talk about.
 
