@@ -36,11 +36,11 @@ a:link {
     color: #{{ site.data.css.color.primary }};
 }
 
-a:visited, a:focus, a:hover {
+a:visited {
     color: #{{ site.data.css.color.tertiary }};
 }
 
-a:hover {
+a:focus, a:hover {
     color: #{{ site.data.css.color.secondary }};
 }
 
@@ -64,6 +64,10 @@ footer {
 footer a:link {
     text-decoration: none;
     color: #{{ site.data.css.color.tertiary }}
+}
+
+footer a:focus, a:hover {
+    color: #{{ site.data.css.color.secondary }};
 }
 
 .copyright {
