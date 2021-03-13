@@ -78,13 +78,13 @@ footer a:focus, a:hover {
 .align-left {
     display: inline;
     float: left;
-    padding: 0.2em 0;
+    padding: 1em;
 }
 
 .align-right {
     display: inline;
     float: right;
-    padding: 0.2em 0;
+    padding: 1em;
 }
 
 .list-inline, .list-inline li {
