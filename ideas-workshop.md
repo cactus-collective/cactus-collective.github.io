@@ -4,6 +4,10 @@ layout: default
 
 # Ideas Workshop: Promoting yourself through blog posts and tech talks
 
+	**Location**: Your computer, like everything right now<br>
+	**When**: Sunday March 28, 2021, 2PM to 4:30PM GMT<br>
+	**Who**: All women and non-binary people who are residents or citizens of the UK
+
 We encourage you to attend this **Ideas Workshop** if you are hesitant to write a blog post, do a demo at work, or present a tech talk at a meet-up or conference, or if you know you want to do these things, but don’t know what to write or talk about.
 
 Why? We firmly believe that **sharing your work and ideas is good for your career**.
@@ -57,3 +61,7 @@ Swap contact details / Talk shop / Plan capers
 ## WHO IS CACTUS COLLECTIVE?
 
 We are intersectional feminists working to build a network of people who are interested in radical change in the tech industry, and connecting with people who would benefit from such change. This workshop is just one little piece of that effort.
+
+## WHY ONLY UK PARTICIPANTS?
+
+This event is funded by [The National Lottery Community Fund](https://www.tnlcommunityfund.org.uk/) with the requirement to support the UK intersectional feminists tech community. We will run this workshop again for a broader community if this event is successful and we see there is interest.
