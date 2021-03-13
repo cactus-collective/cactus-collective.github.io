@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Ideas Workshop: Promoting yourself through blog posts and tech talks
+# Ideas Workshop: Promoting yourself through blog posts and talks
 
 > * **Location**: Your computer, like everything right now
 > * **When**: Sunday March 28, 2021, 2PM to 4:30PM GMT
-> * **Who**: All women and non-binary people who are residents or citizens of the UK
+> * **Who**: All women and non-binary people who are in, or aspire to be in, the tech community ([UK residents and citizens](#why-only-uk-participants))
 
-We encourage you to attend this **Ideas Workshop** if you are hesitant to write a blog post, do a demo at work, or present a tech talk at a meet-up or conference, or if you know you want to do these things, but don’t know what to write or talk about.
+We encourage you to attend this **Ideas Workshop** if you are hesitant to write a blog post, do a demo at work, or present a talk at a meet-up or conference, or if you know you want to do these things, but don’t know what to write or talk about.
 
 Why? We firmly believe that **sharing your work and ideas is good for your career**.
 
@@ -18,7 +18,7 @@ Why? We firmly believe that **sharing your work and ideas is good for your caree
 * Contributing to more decisions give you **experience** and more visibility
 * Being experienced makes you **valuable** and gives you **choices**
 
-We hope you each leave this workshop with at least one idea you can expand into a blog post, demo at work, or tech talk, and meet some new like-minded people along the way.
+We hope you each leave this workshop with at least one idea you can expand into a blog post, demo at work, or talk, and meet some new like-minded people along the way.
 
 See you there?
 
