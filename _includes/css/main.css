@@ -6,6 +6,7 @@ style.css -> _layouts/style.css -> _includes/css/main.css <- _data/css.yml
 
 html {
     background-color: #{{ site.data.css.color.bg-primary }};
+    color: #{{ site.data.css.color.text }};
 }
 
 body {
