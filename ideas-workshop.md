@@ -64,4 +64,4 @@ We are intersectional feminists working to build a network of people who are int
 
 ## WHY ONLY UK PARTICIPANTS?
 
-This event is funded by [The National Lottery Community Fund](https://www.tnlcommunityfund.org.uk/) with the requirement to support the UK intersectional feminists’ tech community. We will run this workshop again for a broader community if this event is successful and we see there is interest.
+This event is funded by [The National Lottery Community Fund](https://www.tnlcommunityfund.org.uk/) with the requirement to support the UK intersectional feminist tech community. We will run this workshop again for a broader community if this event is successful and we see there is interest.
