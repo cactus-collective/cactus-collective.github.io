@@ -6,6 +6,9 @@ style.css -> _layouts/style.css -> _includes/css/main.css <- _data/css.yml
 
 html {
     background-color: #{{ site.data.css.color.bg-primary }};
+}
+
+body {
     margin: 0 auto;
     max-width: 40em;
     padding: 2em;
