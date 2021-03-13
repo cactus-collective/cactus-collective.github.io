@@ -58,11 +58,17 @@ footer a {
     text-decoration: none;
 }
 
+.copyright {
+    font-style: italic;
+}
+
 .align-left {
     display: inline;
+    float: left;
 }
 
 .align-right {
+    display: inline;
     float: right;
 }
 
@@ -71,4 +77,8 @@ footer a {
     margin: 0;
     list-style: none;
     padding: 0;
+}
+
+.align-right li {
+    margin-left: 2em
 }
