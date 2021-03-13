@@ -16,6 +16,19 @@ body {
     line-height: 1.4;
 }
 
+a:link {
+    color: #{{ site.data.css.color.primary }};
+}
+
+a:visited, a:focus, a:hover {
+    color: #{{ site.data.css.color.tertiary }};
+}
+
+blockquote ul {
+    list-style: none;
+    padding: 0;
+}
+
 /* Navigation Hamburger */
 .navigation button {
     position: relative;
