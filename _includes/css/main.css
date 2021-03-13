@@ -16,6 +16,22 @@ body {
     line-height: 1.4;
 }
 
+a#main-logo {
+    background: left / contain no-repeat url(/logo/cactus-collective-colour.png);
+    display: block;
+    height: 6em;
+    vertical-align: bottom;
+    margin: auto;
+    text-indent: 10em;
+    font-size: 2em;
+    text-decoration: none;
+    padding: 0;
+    line-height: 1;
+    width: 6em;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
 a:link {
     color: #{{ site.data.css.color.primary }};
 }
