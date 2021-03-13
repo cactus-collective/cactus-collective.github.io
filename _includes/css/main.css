@@ -5,11 +5,15 @@ style.css -> _layouts/style.css -> _includes/css/main.css <- _data/css.yml
 */
 
 html {
-	background-color: #{{ site.data.css.color.bg-primary }};
+    background-color: #{{ site.data.css.color.bg-primary }};
+    margin: 0 auto;
+    max-width: 40em;
+    padding: 2em;
+    line-height: 1.4;
 }
 
 /* Navigation Hamburger */
-.navigation button{
+.navigation button {
     position: relative;
     float: right;
 
@@ -38,11 +42,12 @@ html {
 
     background: no-repeat center center;
     background-size: 100% 100%;
-	background-color: transparent;
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba({{ site.data.css.color.darkest | hex_to_rgb | join: ',' }}, .5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    background-color: transparent;page
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba({{ site.data.css.color.darkest | hex_to_rgb | join: ',' }}, .5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
     border: 1px solid transparent;
     border-radius: .25rem;
 }
+
 button:focus, button:hover {
     outline: 0;
     border: 1px solid rgba({{ site.data.css.color.darkest | hex_to_rgb | join: ',' }}, .5);
