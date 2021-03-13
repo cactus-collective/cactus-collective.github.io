@@ -24,6 +24,10 @@ a:visited, a:focus, a:hover {
     color: #{{ site.data.css.color.tertiary }};
 }
 
+a:hover {
+    color: #{{ site.data.css.color.secondary }};
+}
+
 blockquote ul {
     list-style: none;
     padding: 0;
