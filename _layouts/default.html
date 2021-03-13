@@ -3,7 +3,7 @@
 
     {% include head.html %}
 
-    <body id="page">
+    <body id="{{ page.title | replace: ' ', '-' }}" class="page-body">
 
     {% include header.html %}
 
