@@ -61,7 +61,7 @@ footer {
     font-size: 0.8em;
 }
 
-footer a {
+footer a:link {
     text-decoration: none;
     color: #{{ site.data.css.color.tertiary }}
 }
