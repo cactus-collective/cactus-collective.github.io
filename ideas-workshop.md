@@ -22,7 +22,7 @@ We hope you each leave this workshop with at least one idea you can expand into 
 
 See you there?
 
-☞ [Register for this free workshop **now** via Google Form]()
+☞ [Register for this free workshop **now** via Google Form](https://docs.google.com/forms/d/e/1FAIpQLScGh3tiDFbhqMv1qaBpH1gVxMeS4flYbYp4o4H9HnKdcv7iPA/viewform)
 
 Attendees will receive a **free care package**. Your care package will include books (chosen by you from a select) from [The Second Shelf](https://www.thesecondshelf.com/), London’s lovely intersectional feminist bookshop.
 
