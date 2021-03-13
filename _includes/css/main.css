@@ -58,6 +58,7 @@ blockquote {
 
 footer {
     margin-top: 4em;
+    margin-bottom: 2em;
     font-size: 0.8em;
 }
 
@@ -95,4 +96,11 @@ footer a:focus, a:hover {
 
 .align-right li {
     margin-left: 0.5em;
+}
+
+.credit {
+    clear: both;
+    font-weight: bold;
+    text-align: center;
+    margin: 1em 0;
 }
