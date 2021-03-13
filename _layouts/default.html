@@ -3,7 +3,7 @@
 
     {% include head.html %}
 
-    <body id="{{ page.title | replace: ' ', '-' | replace: ':', '' | downcase }}" class="page-body">
+    <body id="{{ page.title | replace: ' ', '-' | replace: ':', '' | replace: '?', '' | downcase }}" class="page-body">
 
     {% include header.html %}
 
