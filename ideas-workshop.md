@@ -4,9 +4,9 @@ layout: default
 
 # Ideas Workshop: Promoting yourself through blog posts and tech talks
 
-We encourage you to attend this **Ideas Workshop** if you are hesitant to write a blog post, do a demo at work, or present a tech talk at a meet-up or conference, or if you know you want to do these things, but don't know what to write or talk about.
+We encourage you to attend this **Ideas Workshop** if you are hesitant to write a blog post, do a demo at work, or present a tech talk at a meet-up or conference, or if you know you want to do these things, but don’t know what to write or talk about.
 
-Why? I firmly believe that **sharing your work and your ideas is good for your career**.
+Why? We firmly believe that **sharing your work and ideas is good for your career**.
 
 * Sharing your work makes sure you **get the credit**
 * Sharing your work gets you **seen**
@@ -16,7 +16,9 @@ Why? I firmly believe that **sharing your work and your ideas is good for your c
 
 We hope you each leave this workshop with at least one idea you can expand into a blog post, demo at work, or tech talk, and meet some new like-minded people along the way.
 
-See you there? Register for this free workshop **now**.
+See you there?
+
+☞ [Register for this free workshop **now** via Google Form]()
 
 Attendees will receive a **free care package**. Your care package will include books (chosen by you from a select) from [The Second Shelf](https://www.thesecondshelf.com/), London’s lovely intersectional feminist bookshop.
 
