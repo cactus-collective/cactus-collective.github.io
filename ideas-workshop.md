@@ -24,19 +24,25 @@ Note: This session will not be recorded. If the day and time rolls around, and y
 
 ## WORKSHOP AGENDA
 
-* Welcome: Agenda + Introductions
-  Setting the context / Getting to know each other in small groups
-* Idea generation: Solo brainstorming and partnered idea exploration
-  Guided idea brainstorm / Idea curation / Idea speed pitching
-* SHORT BREAK
-* Write an outline: Expand on one idea + get feedback
-  Draft an outline / Share and get feedback / Edit
-* Present outlines: Share back to the group
-  Title parade / Next steps / Wrap up
-* Reflections (optional)
-  Quiet reflection and feedback / Opportunity to refresh your pot of tea
-* Social time (optional)
-  Swap contact details / Talk shop / Plan capers
+**Welcome: Agenda + Introductions**<br>
+Setting the context / Getting to know each other in small groups
+
+**Idea generation: Solo brainstorming and partnered idea exploration**<br>
+Guided idea brainstorm / Idea curation / Idea speed pitching
+
+**SHORT BREAK**
+
+**Write an outline: Expand on one idea + get feedback**<br>
+Draft an outline / Share and get feedback / Edit
+
+**Present outlines: Share back to the group**<br>
+Title parade / Next steps / Wrap up
+
+**Reflections (optional**)<br>
+Quiet reflection and feedback / Opportunity to refresh your pot of tea
+
+**Social time (optional**)<br>
+Swap contact details / Talk shop / Plan capers
 
 ## HOW TO PREPARE
 
