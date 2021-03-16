@@ -24,7 +24,7 @@ See you there?
 
 ☞ [Register for this free workshop **now** via Google Form](https://docs.google.com/forms/d/e/1FAIpQLScGh3tiDFbhqMv1qaBpH1gVxMeS4flYbYp4o4H9HnKdcv7iPA/viewform)
 
-Attendees will receive a **free care package**. Your care package will include books (chosen by you from a selection) from [The Second Shelf](https://www.thesecondshelf.com/), London’s lovely intersectional feminist bookshop.
+Attendees will receive a **free care package**. Your care package from [The Second Shelf](https://www.thesecondshelf.com/), London’s lovely intersectional feminist bookshop.
 
 Note: This session will not be recorded. If the day and time rolls around, and you aren’t feeling into it, **do still consider attending for the social aspect**. Our hope is that you leave feeling more energised than when you arrived, but if at any time, you want to just watch and listen, or drop out entirely, you can.
 
